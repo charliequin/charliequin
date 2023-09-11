@@ -1,1 +1,1 @@
-![Charlie Quin's Github Stats](https://github-readme-stats.vercel.app/api?username=charliequin&count_private=true&show_icons=true&title_color=ffffff&bg_color=0e0e0e&text_color=ffffff&icon_color=aa54fe&hide_title=true&include_all_commits=true)
+![Charlie Quin's Github Stats](https://github-readme-stats.vercel.app/api?username=charliequin&count_private=true&show_icons=true&title_color=ffffff&bg_color=0e0e0e&text_color=ffffff&icon_color=21de9a&hide_title=true&include_all_commits=true)
